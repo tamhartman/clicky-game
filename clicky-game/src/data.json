@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "image": "/assets/oficina1m.png",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "/assets/ottostacos.png",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "/assets/sweetmomentcoffee.png",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "/assets/taiyaki.png",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "/assets/vinniespizza.png",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "/assets/chickalicious.png",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "/assets/iceandvice.png",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "/assets/hotdogs.png",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "/assets/eatalypasta.png",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "/assets/bocapheeeggs.png",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "/assets/catchnyc.png",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "/assets/rainbowbagel.png",
+      "clicked": false
+    }
+  ]
+  
