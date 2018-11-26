@@ -1,0 +1,47 @@
+.navbar .correct {
+    animation: .2s correct;
+}
+
+.navbar .incorrect{
+    animation: .2s incorrect;
+}
+
+.navbar ul{
+    list-style: none;
+    text-align: center;
+}
+.navbar li{
+    display: inline;
+    margin: 8px;
+    font-weight: bold;
+    font-size: 26px;
+    border: black;
+}
+.navbar{
+    padding: 10px;
+    z-index: 99;
+    background-color: green;
+}
+@keyframes correct {
+    0%{
+        color: white;
+    }
+    50%{
+        color: #c796ff;
+    }
+    100%{
+        color: white;
+    }
+}
+
+@keyframes incorrect{
+    0%{
+        color: white;
+    }
+    50%{
+        color: black;
+    }
+    100%{
+        color: white;
+    }
+}
