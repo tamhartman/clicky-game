@@ -3,6 +3,7 @@ import Nav from "../Nav";
 import Header from "../Header";
 import Container from "../Container";
 import Footer from "../Footer";
+import ClickItem from "../ClickItem";
 import data from "../../data.json";
 
 class Game extends Component {
