@@ -1,4 +1,4 @@
-import React from "react";
+import React, { Component } from 'react';
 import "./NavMessage.css";
 
 //Message renders an li tag containing a message for the user

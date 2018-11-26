@@ -78,7 +78,7 @@ class Game extends Component {
                 <Header />
                 <Container>
                         {this.state.data.map(item => (
-                            <ClickItem
+                            <clickItem
                                 key={item.id}
                                 id={item.id}
                                 shake={!this.state.score && this.state.topScore}
